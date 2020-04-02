@@ -1,4 +1,9 @@
-## Como Criar Projeto Express
+# Se transferir o projeto
+´´´
+npm install
+´´´
+
+# Como Criar Projeto Express
 ```
 git init
 ```
@@ -34,3 +39,4 @@ node_modules
 npm install express
 npm install body-parser
 ```
+
