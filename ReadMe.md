@@ -17,3 +17,20 @@ npm init
 ```
 node_modules
 ```
+
+### Copiar Pastas routes|database|server
+
+### Criar config.json
+```
+{
+    "host":"localhost",
+    "port":3000,
+    "serverStartMessage":"Example app listening at http://%s:%s"
+}
+```
+
+### Instalar Bibliotecas
+```
+npm install express
+npm install body-parser
+```
